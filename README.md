@@ -1,3 +1,3 @@
-# Train-Station-opengl-C++-
+# Train-Station-opengl-C++
 
 This is a c++ opengl project
